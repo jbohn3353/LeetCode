@@ -1,4 +1,4 @@
 ﻿  1. Two Sum.cpp
-C:\Users\jimmy\OneDrive\Documents\GitHub\LeetCode\LeetCode\1. Two Sum\1. Two Sum.cpp(26,21): warning C4018:  '<': signed/unsigned mismatch
-C:\Users\jimmy\OneDrive\Documents\GitHub\LeetCode\LeetCode\1. Two Sum\1. Two Sum.cpp(27,22): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\jimmy\OneDrive\Documents\GitHub\LeetCode\LeetCode\1. Two Sum\1. Two Sum.cpp(30,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\jimmy\OneDrive\Documents\GitHub\LeetCode\LeetCode\1. Two Sum\1. Two Sum.cpp(31,24): warning C4018:  '<': signed/unsigned mismatch
   1. Two Sum.vcxproj -> C:\Users\jimmy\OneDrive\Documents\GitHub\LeetCode\LeetCode\Debug\1. Two Sum.exe

@@ -35,3 +35,7 @@ public:
 		return vector<int>();
 	}
 };
+
+int main() {
+
+}
