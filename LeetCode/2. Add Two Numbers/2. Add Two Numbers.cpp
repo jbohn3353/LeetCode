@@ -6,7 +6,7 @@
 #include <iostream>
 using namespace std;
 
-// Definition for singly-linked list.
+// Definition for singly-linked list. (given)
 struct ListNode {
     int val;
     ListNode *next;
