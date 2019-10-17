@@ -1,7 +1,7 @@
 /* James Bohn
  * 10/16/19
  * Time and space efficient solution for LeetCode problem 589. Valid Square
- * Implementation is done by making sure there are exactly 4 distances 
+ * Implementation is done by making sure there are exactly 4 distances
  * that are a minimum value and exactly two distances that are a maximum value
  */
 
@@ -16,7 +16,7 @@ public:
 	bool validSquare(vector<int>& p1, vector<int>& p2, vector<int>& p3, vector<int>& p4) {
 		if (isSame(p1, p2, p3, p4)) return false;
 
-		vector<double> distances{ dist(p1,p2), dist(p1,p3) , dist(p1,p4) , dist(p2,p3) , dist(p2,p4) , dist(p3,p4) }; 
+		vector<double> distances{ dist(p1,p2), dist(p1,p3) , dist(p1,p4) , dist(p2,p3) , dist(p2,p4) , dist(p3,p4) };
 		double mini = distances[0], maxi = distances[0];
 		for (int i = 1; i < distances.size(); ++i) {
 			mini = min(mini, distances[i]);
