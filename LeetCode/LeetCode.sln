@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "593. Valid Square", "593. V
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1108. Defanging an IP Address", "1108. Defanging an IP Address\1108. Defanging an IP Address.vcxproj", "{F019B4EC-1F35-4B56-9DFB-11237B669860}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "771. Jewels and Stones", "771. Jewels and Stones\771. Jewels and Stones.vcxproj", "{82F4591C-D80B-4D6F-9A14-8629B137635D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{F019B4EC-1F35-4B56-9DFB-11237B669860}.Release|x64.Build.0 = Release|x64
 		{F019B4EC-1F35-4B56-9DFB-11237B669860}.Release|x86.ActiveCfg = Release|Win32
 		{F019B4EC-1F35-4B56-9DFB-11237B669860}.Release|x86.Build.0 = Release|Win32
+		{82F4591C-D80B-4D6F-9A14-8629B137635D}.Debug|x64.ActiveCfg = Debug|x64
+		{82F4591C-D80B-4D6F-9A14-8629B137635D}.Debug|x64.Build.0 = Debug|x64
+		{82F4591C-D80B-4D6F-9A14-8629B137635D}.Debug|x86.ActiveCfg = Debug|Win32
+		{82F4591C-D80B-4D6F-9A14-8629B137635D}.Debug|x86.Build.0 = Debug|Win32
+		{82F4591C-D80B-4D6F-9A14-8629B137635D}.Release|x64.ActiveCfg = Release|x64
+		{82F4591C-D80B-4D6F-9A14-8629B137635D}.Release|x64.Build.0 = Release|x64
+		{82F4591C-D80B-4D6F-9A14-8629B137635D}.Release|x86.ActiveCfg = Release|Win32
+		{82F4591C-D80B-4D6F-9A14-8629B137635D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
